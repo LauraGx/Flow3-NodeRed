@@ -51,7 +51,7 @@ Para observar el resultado de este flow, sólo es necesario abrir el navegador y
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/Cecilia-X-M/flow3-NodeRed/blob/main/flow3.png)
+![](https://github.com/LauraGx/Flow3-NodeRed/blob/main/flow3.png)
 
 # Créditos
 
